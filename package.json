@@ -40,6 +40,6 @@
         "vue-router": "^3.1.5",
         "vue-toasted": "^1.1.27",
         "vuelidate": "^0.7.5",
-        "xlsx": "^0.15.5"
+        "xlsx": "^0.17.0"
     }
 }
